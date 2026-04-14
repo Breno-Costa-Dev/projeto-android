@@ -95,7 +95,7 @@ header > p{
     margin:auto;
     max-width: 500px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.519);
-    margin-bottom: 20px;
+    padding-bottom: 40px;
 }
 nav{
     background-color: var(--cor5);
